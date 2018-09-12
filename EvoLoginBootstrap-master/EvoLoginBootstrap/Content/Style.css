@@ -1,0 +1,57 @@
+﻿.loginBox {
+    margin-top: 100px;
+}
+
+.esqSenha {
+    float:right; 
+    font-size: 80%; 
+    position: relative; 
+    top:-10px;
+}
+
+.panelBody {
+    padding-top:30px;
+}
+
+.alertDanger {
+    display:none;
+}
+
+.inputGroup {
+    margin-bottom: 25px;
+}
+
+.inputGroupPassword {
+    margin-bottom: 25px;
+}
+
+.formGroupLogin {
+    margin-top:10px;
+}
+
+.novaConta {
+    border-top: 1px solid#888; 
+    padding-top: 15px; 
+    font-size: 85%;
+}
+
+.signupbox {
+    display:none; margin-top:50px;
+}
+
+.signupalert {
+    display:none;
+}
+
+.formGroup {
+    border-top: 1px solid #999; 
+    padding-top:20px;
+}
+
+.signinlink {
+    float:right; 
+    font-size: 85%; 
+    position: relative; 
+    top:-10px;
+}
+
